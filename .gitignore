@@ -18,6 +18,7 @@
 
 # 단, 다음만 git에 포함 (명시적 재허용):
 !/sites/SCHEMA.md
+!/sites/CLAUDE.md
 !/sites/_TEMPLATE/
 !/sites/_TEMPLATE/**
 !/sites/sample-customer/
