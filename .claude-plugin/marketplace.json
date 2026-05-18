@@ -1,0 +1,17 @@
+{
+  "name": "k8s-hb-marketplace",
+  "owner": {
+    "name": "yunhunbin",
+    "email": "yunhunbin@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "k8s-hb",
+      "source": ".",
+      "description": "Kubernetes 기술지원 플러그인. air-gapped 사이트 이메일 의뢰 분석(/k8s-troubleshoot)과 사이트 등록/갱신 대화형 인터뷰(/k8s-survey), 출장 시 종이 체크리스트 자동 생성.",
+      "version": "0.1.0",
+      "category": "operations",
+      "tags": ["kubernetes", "k8s", "air-gapped", "troubleshooting", "ko"]
+    }
+  ]
+}
